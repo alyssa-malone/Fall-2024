@@ -1,0 +1,20 @@
+/* colors */
+
+/*
+60% of #FFBF73 - Primary
+30% of #FF73F9 - Secondary
+10% of #73B3FF - Accent
+*/
+
+ :root {
+
+/* var(--dominatColor) ! important; */
+--dominatColor: #FFBF73; 
+
+/* var(--secondaryColor) ! important; */
+--secondaryColor: #FF73F9; 
+
+/* var(--accentColor) ! important; */
+--accentColor: #73B3FF; 
+
+ }
