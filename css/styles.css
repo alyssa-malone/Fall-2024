@@ -2,7 +2,10 @@
 @import 'main.ccs';
 
 .test-font {
-color: #FFBF73;
+    color: #FFBF73;
 
 }
 
+.test-font-2 {
+     color: #FF73F9;
+}
