@@ -1,11 +1,6 @@
 @import 'global.css';
 @import 'main.ccs';
 
-.test-font {
- color: #FFBF73;
-
-}
-
-.test-font-2 {
-     color: #FF73F9;
+.fa-row {
+     background-color: blue;
 }
